@@ -1,0 +1,19 @@
+created_by: 
+domain: television
+seed_examples:
+- answer: BBC Studios creates, develops, produces, distributes, broadcasts, finances and sells content around the world
+  question: What does BBC Studios do?
+- answer: April 2018 through the merger of the BBC's commercial production arm and the BBC's commercial international distribution arm, BBC Worldwide
+  question: When was BBC Studios founded?
+- answer: BritBox is an over-the-top subscription video on-demand brand, which includes original programming commissioned or acquired by the company, and third-party content licensed from other UK channels such as BBC, ITV, Channel 4 and Channel 5. The service was announced by BBC Worldwide and ITV plc as a joint venture in 2016 and launched in 2017 in North America;[65][66] the international service remains a joint venture of BBC Studios and ITV plc.
+  question: What is BritBox? 
+- answer: |
+  question: 
+- answer: |
+  question: 
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: ad185efec4dad89bf611d4b9aa8641155cb25d91
+ patterns:
+   - BBC_studios.md
